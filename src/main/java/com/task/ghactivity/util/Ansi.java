@@ -1,4 +1,4 @@
-package dev.task.ghactivity.util;
+package com.task.ghactivity.util;
 
 public final class Ansi {
     public static final String RESET = "\u001B[0m";

@@ -1,8 +1,8 @@
-package dev.task.ghactivity;
+package com.task.ghactivity;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import dev.task.ghactivity.util.Ansi;
+import com.task.ghactivity.util.Ansi;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

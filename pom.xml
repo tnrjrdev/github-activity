@@ -58,7 +58,7 @@
         <artifactId>spring-boot-maven-plugin</artifactId>
         <version>${spring.boot.version}</version>
         <configuration>
-          <mainClass>dev.task.ghactivity.GhActivityApplication</mainClass>
+          <mainClass>com.task.ghactivity.GhActivityApplication</mainClass>
           <layers enabled="true"/>
         </configuration>
       </plugin>

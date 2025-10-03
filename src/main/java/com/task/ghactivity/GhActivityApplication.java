@@ -1,4 +1,4 @@
-package dev.task.ghactivity;
+package com.task.ghactivity;
 
 import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;
